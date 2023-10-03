@@ -1,5 +1,5 @@
 # MineSweeper
-一个基于C++和Easyx的扫雷。
+一个基于C++和EasyX的扫雷。
 
 # How to play
 左键随便点一个块，右上角开始计时。<br />
