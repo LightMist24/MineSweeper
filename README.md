@@ -16,15 +16,17 @@
 
 # Game Screenshots
 ![MineSweeper](https://github.com/LightMist24/MineSweeper/assets/142841012/4ceab8cd-c3ae-40f7-b1d9-732ed94bfc07)
+![Playing](https://github.com/LightMist24/MineSweeper/assets/142841012/6f22c9aa-0f97-4026-8937-b54e7e3b023a)
+![Failing](https://github.com/LightMist24/MineSweeper/assets/142841012/7f7874d5-ea8e-4bd5-b764-bb67d89c436f)
 
 # How it workds
 效果是对雷块进行加密，密码是偏移数值20。
 再贴上对应的图片，之后刷新图片，解码就是加上-20.
 
 一些图片编号：
-Mine（雷）：-1；
-Number1~8（数字1~8）：1~8；
-Flag（旗帜）：29~38；
+Mine（雷）：-1。
+Number1~8（数字1~8）：1~8。
+Flag（旗帜）：29~38。
 ......
 
 # Other
